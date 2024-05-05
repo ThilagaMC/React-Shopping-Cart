@@ -1,15 +1,15 @@
 import React, { useState } from 'react';
 
-import home from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/Home.png';
-import cartImage from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/images.png';
-import dress1 from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/One.png';
-import dress2 from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/Two.png';
-import dress3 from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/Three.png';
-import dress4 from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/Four.png';
-import dress5 from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/Five.png';
-import dress6 from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/six.png';
-import dress7 from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/seven.png';
-import dress8 from '/00.Full strack Cource/Daily Task/React/React Shopping Cart/Eight.png';
+import home from '/Home.png';
+import cartImage from '/images.png';
+import dress1 from '/One.png';
+import dress2 from '/Two.png';
+import dress3 from '/Three.png';
+import dress4 from '/Four.png';
+import dress5 from '/Five.png';
+import dress6 from '/six.png';
+import dress7 from '/seven.png';
+import dress8 from '/Eight.png';
 
 import './App.css';
 
